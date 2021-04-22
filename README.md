@@ -17,3 +17,6 @@ A tutorial from the official Django documentation.
 
 # Creating A Superuser
 > python manage.py createsuperuser
+
+# Running Tests For Apps
+> python manage.py test [app name]
