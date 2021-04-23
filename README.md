@@ -20,3 +20,6 @@ A tutorial from the official Django documentation.
 
 # Running Tests For Apps
 > python manage.py test [app name]
+
+# Finding Django Documentation
+> python -c "import django; print(django.__path__)"
